@@ -1,0 +1,5 @@
+Ticket_ID,Created_Date,Resolved_Date,Priority,Assigned_To,Resolution_Days
+11,2026-02-02,2026-03-09,Medium,Bob,35
+14,2026-02-01,2026-03-10,Medium,Charlie,37
+15,2026-02-01,2026-03-05,Low,Bob,32
+21,2026-02-06,2026-03-10,High,Bob,32
